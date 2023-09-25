@@ -1,26 +1,22 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Wanjing Yang",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/ywj128.png",
+    "email": "wanjingy128@gmail.com",
+    "phone": "562-659-6908",
+    "website": "https://ywj128.github.io",
+    "summary": "I am a master student in computer science at University of Southern California with a passion for turning innovative ideas into reality. My skills span various programming languages and tools such as Java, Python and JavaScript. I'm committed to continuous learning and growth, and I'm excited to take on new challenges and opportunities in the world of software development.",
+    "location": { "address": "", "postalCode": "90057", "city": "Los Angeles", "countryCode": "USA", "region": "California" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ywj128", "url": "https://github.com/ywj128" },
+      { "network": "linkedin", "username": "Wanjing Yang", "url": "https://www.linkedin.com/in/wanjing-yang-1483b2265/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engieering" },
+    { "name": "Wed Development" },
+    { "name": "Game Development" }
   ],
   "skills": [
     {
