@@ -20,21 +20,30 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Programming Languages",
+      "keywords": [ "Java", "JavaScript", "Python", "HTML/CSS", "C/C++", "C#", "TypeScript", "SQL", "MATLAB" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Frameworks and Tools",
+      "keywords": [ "Angular", "React", "Node.js", "Express.js", "Flask", "jQuery", "Bootstrap", "JFinal", "JPress", "JBoot", "Git", "Maven", "npm" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Southern California, Los Angeles, CA",
+      "area": "Computer Science (expected May, 2024)",
+      "studyType": "Master of Science",
+      "startDate": "Aug 2022",
       "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Central South University, Hunan, China",
+      "area": "Computer Science and Technologies",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "Sep 2018",
+      "endDate": "Jun 2022",
       "courses": [
       ]
     }
