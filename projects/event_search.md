@@ -20,7 +20,7 @@ labels:
 summary: "Multiple full-stack projects focused on event search that I developed for CSCI-570 Web Technologies."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/events_search/events-search-index.png">
 
 I developed and combined multiple full-stack projects focused on event search using various technologies and platforms. This includes two dynamic websites and a cutting-edge Android app.
 
