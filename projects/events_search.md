@@ -24,9 +24,6 @@ summary: "Multiple full-stack projects focused on event search that I developed 
 
 I developed and combined multiple full-stack projects focused on event search using various technologies and platforms. This includes two dynamic websites and a cutting-edge Android app.
 
-<br/>
-<br/>
-
 ## Event Search Website 1
 
 <hr>
@@ -47,45 +44,6 @@ I developed and combined multiple full-stack projects focused on event search us
   <img width="80%" class="img-fluid rounded mb-2" src="../img/events_search/web-1-2.png">
   <img width="80%" class="img-fluid rounded mb-2" src="../img/events_search/web-1-3.png">
 </div>
-
-<br/>
-<br/>
-
-## Event Search Website 2
-
-<hr>
-
-### Techonologies: 
-- Frontend: Angular, Typescript, Bootstrap
-- Backend: Node.js, Express
-
-### Features Added: 
-- Auto-complete keywords input by users
-- Provide more details of specific event and corresponding venue, such as venue location on Google Map
-- Provide artists' Spotify profile of music-related events
-- Mark favorite events in website Cookies
-
-### Screenshots:
-<div class="d-flex justify-content-center align-items-center flex-column">
-  <img width="80%" class="img-fluid rounded mb-2" src="../img/events_search/web-2-1.png">
-  <img width="80%" class="img-fluid rounded mb-2" src="../img/events_search/web-2-2.png">
-  <img width="80%" class="img-fluid rounded mb-2" src="../img/events_search/web-2-3.png">
-  <img width="80%" class="img-fluid rounded mb-2" src="../img/events_search/web-2-4.png">
-</div>
-
-<hr>
-
-<br/>
-<br/>
-
-## Event Finder Android App
-
-<hr>
-
-I developed an Android app on Android Studio with all the features mentioned above. Reused the Node.js backend I constructed for [Event Search Website 2](#Event-Search-Website-2) to fetch data from APIs.
-
-### Screenshots:
-<img width="80%" class="img-fluid rounded d-block mx-auto" src="../img/events_search/app.jpg">
 
 <hr>
 
