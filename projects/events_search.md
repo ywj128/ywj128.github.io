@@ -21,8 +21,13 @@ summary: "Multiple full-stack projects focused on event search that I developed 
 ---
 
 <img class="img-fluid rounded d-block mx-auto" src="../img/events_search/events-search-index.png">
+<br/>
+<br/>
 
-I developed and combined multiple full-stack projects focused on event search using various technologies and platforms. This includes two dynamic websites and a cutting-edge Android app.
+I developed and combined multiple full-stack projects focused on event search using various technologies and platforms. This includes two dynamic websites and a cutting-edge Android app: 
+- [Event Search Website(JavaScript, Flask)](#event-search-website-1)
+- [Event Search Website(Angular, Node.js)](#event-search-website-2)
+- [Event Finder Android App](#event-finder-android-app)
 
 <br/>
 <br/>
@@ -72,6 +77,9 @@ I developed and combined multiple full-stack projects focused on event search us
   <img width="80%" class="img-fluid rounded mb-2" src="../img/events_search/web-2-3.png">
   <img width="80%" class="img-fluid rounded mb-2" src="../img/events_search/web-2-4.png">
 </div>
+
+<br/>
+<br/>
 
 ## Event Finder Android App
 
