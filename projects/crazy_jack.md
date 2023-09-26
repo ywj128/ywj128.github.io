@@ -9,6 +9,7 @@ labels:
   - Unity
   - C#
   - Game Development
+  - Git
 summary: "A 2d platformer game with a unique drawing mechanism that my team developed for CSCI-526 Advanced Mobile Devices and Game Consoles."
 ---
 
@@ -28,11 +29,12 @@ Play our game on [Unity WebGL](https://zhengyuwu0924.github.io/CSCI526_GroupAnxi
 
 ## Key Features
 - Drawing with different pens & brushes
-  - Gravity brush: change the gravity of an object
-  - Magnet brush: changes magnetism of an object
-  - Wood pen: cheap material can be used as a wooden stick to help the player move
-  - Rock pen: heavy material can be used to lift things up or help the player move
-  - Platform pen: static platform can be used to help the player move
+  - Gravity brush: enables Player to change the gravity of an object
+  - Magnet brush: enables Player to changes magnetism of an object
+  - Wood pen: enables Player to draw light wooden object
+  - Rock pen: enables Player to draw heavy and large object
+  - Platform pen: enables Player to draw static platform
+  - Eletronic pen: enables Player to draw cable between eletronic devices to power them
 - Ink limitation
   - When the ink runs out, the player dies
   - Every pen & brush has its own ink consumption, Player needs to use different pens and brushes, make reasonable use of objects in the scene, save ink consumption, and pass the level
@@ -43,6 +45,7 @@ Play our game on [Unity WebGL](https://zhengyuwu0924.github.io/CSCI526_GroupAnxi
 - Combination of tools drawn by players themselves
   - E.g. Players can build a seesaw by combining wood pen and rock pen.
 
-<hr>
+## Gameplay Video
+<iframe width="80%" height="auto" src="https://www.youtube.com/embed/LWYz-JTAXvM"></iframe>
 
 Source: <a href="https://github.com/ZhengyuWu0924/CSCI526_GroupAnxiety_Project"><i class="large github icon "></i>GitHub</a>
