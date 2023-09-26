@@ -6,7 +6,7 @@
     "email": "wanjingy128@gmail.com",
     "phone": "562-659-6908",
     "website": "https://ywj128.github.io",
-    "summary": "I am a master student in computer science at University of Southern California with a passion for turning innovative ideas into reality. My skills span various programming languages and tools such as Java, Python and JavaScript. I'm committed to continuous learning and growth, and I'm excited to take on new challenges and opportunities in the world of software development.",
+    "summary": "I am a master student in computer science at University of Southern California with a passion for turning innovative ideas into reality. I'm committed to continuous learning and growth, and I'm excited to take on new challenges and opportunities in the world of software development.",
     "location": { "address": "", "postalCode": "90057", "city": "Los Angeles", "countryCode": "USA", "region": "California" },
     "profiles": [
       { "network": "github", "username": "ywj128", "url": "https://github.com/ywj128" },
@@ -75,25 +75,6 @@
         "Facilitated communication between developers and clients to ensure requirements were clearly communicated",
         "Coordinated with data companies to secure multiple data interfaces and transfers to support project requirements"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
     }
   ]
 }
