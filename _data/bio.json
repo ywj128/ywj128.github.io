@@ -31,9 +31,9 @@
   "education": [
     {
       "institution": "University of Southern California, Los Angeles, CA",
-      "area": "Computer Science (expected May, 2024)",
+      "area": "Computer Science (expected May 2024)",
       "studyType": "Master of Science",
-      "startDate": "2022",
+      "startDate": "Aug 2022",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,8 +42,8 @@
       "institution": "Central South University, Hunan, China",
       "area": "Computer Science and Technologies",
       "studyType": "Bachelor of Engineering",
-      "startDate": "2018",
-      "endDate": "2022",
+      "startDate": "Sep 2018",
+      "endDate": "Jun 2022",
       "courses": [
       ]
     }
@@ -53,7 +53,7 @@
       "company": "California Institute of Acupuncture and Chinese Medicine",
       "position": "Software Development Engineer Intern",
       "website": "",
-      "startDate": "2023-05",
+      "startDate": "May 2023",
       "endDate": "Present",
       "summary": "Collaborated with a dynamic startup team to contribute to the full-stack development of a JPress-based website",
       "highlights": [
@@ -66,8 +66,8 @@
       "company": "Huawei Technologies",
       "position": "Technology Implementation Intern",
       "website": "",
-      "startDate": "2021-07",
-      "endDate": "2021-07",
+      "startDate": "Jul 2021",
+      "endDate": "Aug 2021",
       "summary": "Contributed to a project aimed at developing a software platform for unified ecological environment management",
       "highlights": [
         "Collaborated with clients to understand their requirements and devised effective solutions to meet their needs",
@@ -76,9 +76,6 @@
         "Coordinated with data companies to secure multiple data interfaces and transfers to support project requirements"
       ]
     }
-  ],
-  "volunteer": [
-    
   ],
   "awards": [
     {
