@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/events_search/events_search_square.jpg
 title: "Event Search Projects"
-date: 2023-02
+date: 2023-05
 published: true
 labels:
   - JavaScript

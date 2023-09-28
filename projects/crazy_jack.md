@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/crazy_jack/crazy_jack_square.jpg
 title: "Crazy Jack"
-date: 2023-01
+date: 2023-04
 published: true
 labels:
   - Unity
@@ -47,5 +47,7 @@ Play our game on [Unity WebGL](https://zhengyuwu0924.github.io/CSCI526_GroupAnxi
 
 ## Gameplay Video
 <iframe width="80%" height="400px" class="mx-auto" src="https://www.youtube.com/embed/LWYz-JTAXvM"></iframe>
+
+<hr>
 
 Source: <a href="https://github.com/ZhengyuWu0924/CSCI526_GroupAnxiety_Project"><i class="large github icon "></i>GitHub</a>
