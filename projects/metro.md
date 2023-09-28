@@ -17,10 +17,7 @@ labels:
 summary: "A metro ridership prediction system I developed for my graduation thesis at Central South University"
 ---
 
-<div width="80%"class="row">
-    <img class="col-6" height="auto" src="../img/metro/metro-1.png">
-    <img class="col-6" height="auto" src="../img/metro/metro-2.png">
-</div>
+<img width="100%" class="img-fluid rounded d-block mx-auto" src="../img/metro/metro-header.jpg">
 
 The metro ridership prediction system is designed on the basis of a spatial-temporal metro ridership prediction model, which is beneficial to the construction of intelligent transportation system. In the development of the city, traffic management is an indispensable part. What’s more, the flow management of the metro system is closely related to the daily life of citizens. This system, in turn, streamlines the training process for the metro ridership prediction model within the management department.
 
