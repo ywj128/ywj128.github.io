@@ -46,7 +46,7 @@ Play our game on [Unity WebGL](https://zhengyuwu0924.github.io/CSCI526_GroupAnxi
   - E.g. Players can build a seesaw by combining wood pen and rock pen.
 
 ## Gameplay Video
-<iframe width="80%" height="400px" class="mx-auto" src="https://www.youtube.com/embed/LWYz-JTAXvM"></iframe>
+<iframe width="80%" height="450px" class="mx-auto d-block" src="https://www.youtube.com/embed/LWYz-JTAXvM"></iframe>
 
 <hr>
 
