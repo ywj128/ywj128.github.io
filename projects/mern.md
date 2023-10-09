@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mern/merb-square.png
+image: img/mern/mern-square.png
 title: "Mini MERN Projects"
 date: 2023-08
 published: true
@@ -29,13 +29,31 @@ During the summer of 2023, I completed the [Front End Development Libraries](htt
 ## Front End Projects
 
 <hr>
-- Random Quote Machine
+- [Random Quote Machine](https://codepen.io/Wanjing-Yang/pen/vYQmXxm)
 <iframe height="300" style="width: 100%;" scrolling="no" title="Random Quote Machine" src="https://codepen.io/Wanjing-Yang/embed/vYQmXxm?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/Wanjing-Yang/pen/vYQmXxm">
   Random Quote Machine</a> by Wanjing Yang (<a href="https://codepen.io/Wanjing-Yang">@Wanjing-Yang</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
-- 25 + 5 Clock
+- [Markdown Reviewer](https://codepen.io/Wanjing-Yang/pen/ExOGLvo)
+<iframe height="300" style="width: 100%;" scrolling="no" title="Markdown Previewer" src="https://codepen.io/Wanjing-Yang/embed/ExOGLvo?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/Wanjing-Yang/pen/ExOGLvo">
+  Markdown Previewer</a> by Wanjing Yang (<a href="https://codepen.io/Wanjing-Yang">@Wanjing-Yang</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+- [Drum Machine](https://codepen.io/Wanjing-Yang/pen/YzRgKjz)
+<iframe height="300" style="width: 100%;" scrolling="no" title="Drum Machine" src="https://codepen.io/Wanjing-Yang/embed/YzRgKjz?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/Wanjing-Yang/pen/YzRgKjz">
+  Drum Machine</a> by Wanjing Yang (<a href="https://codepen.io/Wanjing-Yang">@Wanjing-Yang</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+- [Calculator](https://codepen.io/Wanjing-Yang/pen/WNYWZEr)
+<iframe height="300" style="width: 100%;" scrolling="no" title="Calculator" src="https://codepen.io/Wanjing-Yang/embed/WNYWZEr?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/Wanjing-Yang/pen/WNYWZEr">
+  Calculator</a> by Wanjing Yang (<a href="https://codepen.io/Wanjing-Yang">@Wanjing-Yang</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+- [25 + 5 Clock](https://codepen.io/Wanjing-Yang/pen/WNYWVqq)
 <iframe height="300" style="width: 100%;" scrolling="no" title="25+5 Clock" src="https://codepen.io/Wanjing-Yang/embed/WNYWVqq?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/Wanjing-Yang/pen/WNYWVqq">
   25+5 Clock</a> by Wanjing Yang (<a href="https://codepen.io/Wanjing-Yang">@Wanjing-Yang</a>)
