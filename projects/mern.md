@@ -21,9 +21,8 @@ summary: "Multiple mini projects related to MERN stack that I developed."
 <br/>
 <br/>
 
-During the summer of 2023, I completed the [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) and [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) certifications on freeCodeCamp. These certifications have provided me with a solid understanding of the MERN (MongoDB, Express.js, React, Node.js) stack. As part of these courses, I had the opportunity to work on various projects to apply and reinforce my learning.
+During the summer of 2023, I completed the [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) and [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) certifications on [freeCodeCamp](https://www.freecodecamp.org/learn). These certifications have provided me with a solid understanding of the MERN (MongoDB, Express.js, React, Node.js) stack. As part of these courses, I had the opportunity to work on various projects to apply and reinforce my learning.
 
-<br/>
 <br/>
 
 ## Front End Projects
@@ -59,3 +58,19 @@ During the summer of 2023, I completed the [Front End Development Libraries](htt
   25+5 Clock</a> by Wanjing Yang (<a href="https://codepen.io/Wanjing-Yang">@Wanjing-Yang</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
+
+<br/>
+
+## Back End Projects
+
+<hr>
+- Timestamp Microservice
+<iframe src="https://replit.com/@WanjingYang/boilerplate-project-timestamp" width="100%" height="300">
+- Request Header Parser Microservice
+<iframe src="https://replit.com/@WanjingYang/boilerplate-project-headerparser" width="100%" height="300">
+- URL Shortener Microservice
+<iframe src="https://replit.com/@WanjingYang/boilerplate-project-urlshortener" width="100%" height="300">
+- Exercise Tracker
+<iframe src="https://replit.com/@WanjingYang/boilerplate-project-exercisetracker" width="100%" height="300">
+- File Metadata Microservice
+<iframe src="https://replit.com/@WanjingYang/boilerplate-project-filemetadata" width="100%" height="300">
