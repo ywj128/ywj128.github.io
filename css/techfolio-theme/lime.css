@@ -41,7 +41,7 @@ a {
   text-decoration: none;
 }
 
-/* Simplify the styling of the bottom of Essay cards. */
+/* Simplify the styling of the bottom of Interest cards. */
 .card-footer {
   background-color: var(--bs-white);
   border-top: none;
