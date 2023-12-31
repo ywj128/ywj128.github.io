@@ -1,5 +1,5 @@
 ---
-layout: interest
+layout: project
 type: interest
 title: "Games"
 # All dates must be YYYY-MM-DD format!
@@ -21,8 +21,10 @@ As a passionate gamer since my childhood, I've developed a profound interest in 
 
 ## 2023 Hightlights
 - Steam library growing strong.
-<img width="80%" class="img-fluid rounded mb-2" src="../img/video_games/steam_2023.jpg">
+
+<img width="50%" class="img-fluid rounded mb-2" src="../img/video_games/steam_2023.jpg">
 - Nintendo Switch joined the party.
-<img width="80%" class="img-fluid rounded mb-2" src="../img/video_games/nitendo_2023.jpg">
+
+<img width="50%" class="img-fluid rounded mb-2" src="../img/video_games/nitendo_2023.jpg">
 
 Gaming isn't just downtime for me; it's a source of inspiration and problem-solving joy that fuels my computer science journey.
