@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "Wanjing Yang",
+    "label": "Student",
+    "picture": "https://github.com/ywj128.png",
+    "email": "wanjingy128@gmail.com",
+    "phone": "562-659-6908",
+    "website": "https://ywj128.github.io",
+    "summary": "I am a master student in computer science at University of Southern California with a passion for turning innovative ideas into reality. I'm committed to continuous learning and growth, and I'm excited to take on new challenges and opportunities in the world of software development.",
+    "location": { "address": "", "postalCode": "90057", "city": "Los Angeles", "countryCode": "USA", "region": "California" },
+    "profiles": [
+      { "network": "github", "username": "ywj128", "url": "https://github.com/ywj128" },
+      { "network": "linkedin", "username": "Wanjing Yang", "url": "https://www.linkedin.com/in/wanjing-yang-1483b2265/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engieering" },
+    { "name": "Wed Development" },
+    { "name": "Game Development" }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [ "Java", "JavaScript", "Python", "HTML/CSS", "C/C++", "C#", "TypeScript", "SQL", "MATLAB" ]
+    },
+    {
+      "name": "Frameworks and Tools",
+      "keywords": [ "Angular", "React", "Node.js", "Express.js", "Flask", "jQuery", "Bootstrap", "JFinal", "JPress", "JBoot", "Git", "Maven", "npm" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Southern California, Los Angeles, CA",
+      "area": "Computer Science (expected May 2024)",
+      "studyType": "Master of Science",
+      "startDate": "Aug 2022",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Central South University, Hunan, China",
+      "area": "Computer Science and Technologies",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "Sep 2018",
+      "endDate": "Jun 2022",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "California Institute of Acupuncture and Chinese Medicine",
+      "position": "Software Development Engineer Intern",
+      "website": "",
+      "startDate": "May 2023",
+      "endDate": "Present",
+      "summary": "Collaborated with a dynamic startup team to contribute to the full-stack development of a JPress-based website",
+      "highlights": [
+        "Utilized Java programming to implement 5+ critical website functionalities and constructed backend service interfaces based on the JFinal framework, thereby enhancing our products and services",
+        "Designed and implemented visually appealing web pages using HTML and JavaScript, improving product presentation and user-friendliness",
+        "Contributed to the implementation and maintenance of a comprehensive user data security protocol using MySQL"
+      ]
+    },
+    {
+      "company": "Huawei Technologies",
+      "position": "Technology Implementation Intern",
+      "website": "",
+      "startDate": "Jul 2021",
+      "endDate": "Aug 2021",
+      "summary": "Contributed to a project aimed at developing a software platform for unified ecological environment management",
+      "highlights": [
+        "Collaborated with clients to understand their requirements and devised effective solutions to meet their needs",
+        "Assisted in project planning and executed tasks to ensure smooth progress and delivery of the project",
+        "Facilitated communication between developers and clients to ensure requirements were clearly communicated",
+        "Coordinated with data companies to secure multiple data interfaces and transfers to support project requirements"
+      ]
+    }
+  ]
+}
