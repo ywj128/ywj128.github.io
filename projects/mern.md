@@ -4,7 +4,7 @@ type: project
 image: img/mern/mern-square.png
 title: "Mini MERN Projects"
 date: 2023-08
-published: true
+published: false
 labels:
   - React.js
   - MongoDB
