@@ -32,7 +32,7 @@ I developed and combined multiple full-stack projects focused on event search us
 <br/>
 <br/>
 
-## Event Search Website 1
+## Event Search Website 1 [Visit Here](https://csci526-homework6.wl.r.appspot.com/)
 
 <hr>
 
@@ -56,7 +56,7 @@ I developed and combined multiple full-stack projects focused on event search us
 <br/>
 <br/>
 
-## Event Search Website 2
+## Event Search Website 2 [Visit Here](https://event-search-ywj.wl.r.appspot.com)
 
 <hr>
 
